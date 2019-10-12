@@ -1,2 +1,4 @@
 # group-messenger-app
-Group Messenger Android app that ensures Total and FIFO message ordering
+Decentralized group messenger app for Android.
+Guarantees Total-FIFO ordering using the ISIS algorithm.
+Handles failures of devices and honors the message ordering.
